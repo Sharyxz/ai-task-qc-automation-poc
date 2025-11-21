@@ -13,9 +13,7 @@ Key Wins (From 6 Test Scenarios):
 3. Gemini QC: Flags "High Priority without assignee" → Alert + Log.
 4. Insights: Efficiency drops to 76%, Saved=10 min.
 
-Live Links:
-- Zap: [Public View](https://zapier.com/share/your-zap-id) – Toggle public in Zap settings.
-- Dashboard: [Sheets Table](your-share-link) – Shows 5 flags, 76% efficiency.
+- Dashboard: [Sheets Table]([your-share-link](https://docs.google.com/spreadsheets/d/14feXQ7JVK1_zDI8Zvee_IkVIkQWtA6_8XKCKwPd9c60/edit).
 
 
 ### Metrics Table
