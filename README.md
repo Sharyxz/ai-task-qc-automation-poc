@@ -1,6 +1,6 @@
 # AI-Powered Task Automation with QC Dashboard
 
-Set-and-forget workflow for operational efficiency: Parses Gmail tasks to Clockify, uses Gemini AI to flag anomalies (e.g., missing due date, unassigned High Pri, confidential risks), sends alerts, and logs to Sheets for insights.
+Set-and-forget workflow for operational efficiency: Parses Gmail tasks to Clockify, uses Gemini AI to flag anomalies (e.g., missing due date, unassigned High Pri, confidential risks), sends alerts slack, and logs to Sheets for insights.
 
 Key Wins (From 6 Test Scenarios):
 - 5/6 anomalies flagged (83% detection; e.g., "High Priority without assignee").
@@ -29,3 +29,4 @@ Key Wins (From 6 Test Scenarios):
 - Tracking: Clockify (time entries).
 - QC: Gemini AI (anomaly JSON).
 - Insights: Google Sheets (formulas/table).
+- Error Log: Slack
